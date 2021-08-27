@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **920232796/920232796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=920232796)
 
+### Hi there 👋
+
+- 🔭 Graduate student
+- 😄 Like code
+- 📫 Welcome to QQ communication group:975907202
